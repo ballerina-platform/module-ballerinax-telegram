@@ -18,7 +18,7 @@
 
 plugins {
     id 'java-library'
-    id 'com.github.johnrengelman.shadow'
+    id 'com.gradleup.shadow'
 }
 
 description = 'Ballerina - Telegram Native'
@@ -31,10 +31,6 @@ tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
 }
 
-java {
-    sourceCompatibility = JavaVersion.VERSION_21
-    targetCompatibility = JavaVersion.VERSION_21
-}
 
 repositories {
     mavenCentral()
