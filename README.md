@@ -2,7 +2,7 @@
 
 [![Build](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/ci.yml)
 [![GraalVM Check](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/build-with-bal-test-graalvm.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/build-with-bal-test-graalvm.yml)
-[![Trivy](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/trivy-scan.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/trivy-scan.yml)
+[![Security Scan](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/security-scan.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-telegram/actions/workflows/security-scan.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 The [Telegram Bot API](https://core.telegram.org/bots/api) lets bots send and receive messages, manage chats, answer inline/callback queries, and more, over a simple HTTPS REST API.
